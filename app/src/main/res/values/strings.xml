@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">JetPackDataBinding</string>
+    <string name="action_settings">Settings</string>
+    <string name="toolbar_profile">Profile</string>
+    <string name="articles">ARTICLES</string>
+    <string name="friends">FRIENDS</string>
+    <string name="favourite">FAVOURITE</string>
+</resources>
